@@ -6,7 +6,7 @@ I’m currently learning many different languages and frameworks at the moment, 
 
 On a long-term basis, I plan to work on public-facing repositories on a consistent term.
 
-
+Goal: 1 commit / code change every day for AT LEAST a year.
 
 
 Stats:
