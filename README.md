@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome in!
+
+Current support technician, making leaps and bounds to become a software developer, full time.
+
+I’m currently learning many different languages and frameworks at the moment, with my current focus being PHP / Laravel & Next.JS.
+
+On a long-term basis, I plan to work on public-facing repositories on a consistent term.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=13011brett)](https://git.io/streak-stats)
+
+Stats:
 
 ![](https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-light-mode-only)
