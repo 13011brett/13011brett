@@ -12,7 +12,6 @@ Goal: 1 commit / code change every day for AT LEAST a year.
 Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=13011brett)](https://git.io/streak-stats)
-
 ![](https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/13011brett/stats/master/generated/languages.svg#gh-dark-mode-only)
