@@ -13,13 +13,14 @@ Stats:
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=13011brett" alt="streak-stats custom image"/>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <p align="center">
   <img src="https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-dark-mode-only"/>
   <img src="https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-light-mode-only"/>
   <img src="https://raw.githubusercontent.com/13011brett/stats/master/generated/languages.svg#gh-dark-mode-only"/>
   <img src="https://raw.githubusercontent.com/13011brett/stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=13011brett)](https://git.io/streak-stats)
 
 
 Personal Website: TBD.
