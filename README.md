@@ -12,10 +12,12 @@ Goal: 1 commit / code change every day for AT LEAST a year.
 Stats:
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=13011brett" alt="streak-stats custom image"/>
+  <img src="https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-light-mode-only"/>
 </p>
 
 
-![](https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-dark-mode-only)
+![]()
 ![](https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/13011brett/stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/13011brett/stats/master/generated/languages.svg#gh-light-mode-only)
