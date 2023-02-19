@@ -11,7 +11,7 @@ Goal: 1 commit / code change every day for AT LEAST a year.
 
 Stats:
 <p align="center">
-  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://streak-stats.demolab.com/?user=13011brett)" alt="streak-stats custom image"/>
+  <img src="https://streak-stats.demolab.com/?user=13011brett" alt="streak-stats custom image"/>
 </p>
 
 
