@@ -10,8 +10,10 @@ Goal: 1 commit / code change every day for AT LEAST a year.
 
 
 Stats:
+<p align="center">
+  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://streak-stats.demolab.com/?user=13011brett)" alt="streak-stats custom image"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=13011brett)](https://git.io/streak-stats)
 
 ![](https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-light-mode-only)
@@ -19,6 +21,8 @@ Stats:
 ![](https://raw.githubusercontent.com/13011brett/stats/master/generated/languages.svg#gh-light-mode-only)
 
 Personal Website: TBD.
+
+Shout out to https://git.io/streak-stats & https://github.com/jstrieb/github-stats for the provided stats.
 
 
 
