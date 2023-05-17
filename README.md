@@ -1,6 +1,6 @@
 ### Welcome in!
 
-Current support technician, making leaps and bounds to become a software developer, full time.
+Current Software Developer! Always learning something new, with a focus on C# and full stack development.
 
 I’m currently learning many different languages and frameworks at the moment, with my current focus being PHP / Laravel & Next.JS.
 
