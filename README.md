@@ -2,7 +2,7 @@
 
 Current Software Developer! Always learning something new, with a focus on C# and full stack development.
 
-I’m currently learning many different languages and frameworks at the moment, with my current focus being PHP / Laravel & Next.JS.
+I’m currently learning many different languages and frameworks at the moment, with my current focus being PHP / Laravel & TS / Alpine.js.
 
 On a long-term basis, I plan to work on public-facing repositories on a consistent term.
 
