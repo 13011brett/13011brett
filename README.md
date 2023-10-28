@@ -13,7 +13,7 @@ Book that I am reading at the moment: <a href="https://nostarch.com/download/sam
 </br>
 </br>
 
-<h1>Stats: </h1>
+<h1 align="center">Stats</h1>
 <p align="center"> <img src="https://streak-stats.demolab.com?user=13011brett&theme=javascript-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak-stats custom image"/></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-dark-mode-only"/>
