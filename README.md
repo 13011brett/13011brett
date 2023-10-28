@@ -10,8 +10,10 @@ Current Focus: Consistently read more programming / reverse engineering books, a
 
 Book that I am reading at the moment: <a href="https://nostarch.com/download/samples/practical-malware-analysis_toc.pdf"> Practical Malware Analysis </a> 
 
+</br>
+</br>
 
-Stats:
+<h1>Stats: </h1>
 <p align="center"> <img src="https://streak-stats.demolab.com?user=13011brett&theme=javascript-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak-stats custom image"/></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/13011brett/stats/master/generated/overview.svg#gh-dark-mode-only"/>
