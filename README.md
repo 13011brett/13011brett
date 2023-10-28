@@ -1,10 +1,14 @@
 ### Welcome in!
 
-Current Software Developer! Always learning something new, with my current focus being PHP / Laravel,  C# / .NET.
+Current Software Engineer. Always learning something new, with my current focus being PHP / Laravel,  C# / .NET.
 
 On a long-term basis, I plan to work on public-facing repositories on a consistent term.
 
-Goal: 1 commit / code change every day for AT LEAST a year.
+Previous Goal: 1 commit / code change every day for AT LEAST a year. (Complete! 365 days of code)
+
+Current Focus: Consistently read more programming / reverse engineering books, and learn more upon proper design patterns.
+
+Book that I am reading at the moment: <a href="https://nostarch.com/download/samples/practical-malware-analysis_toc.pdf"> Practical Malware Analysis </a> 
 
 
 Stats:
