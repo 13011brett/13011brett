@@ -7,7 +7,7 @@ Senior Full Stack Engineer with a focus on building reliable, scalable systems. 
 
 ---
 
-###Tech Stack
+### Tech Stack
 
 **Languages**
 
