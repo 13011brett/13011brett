@@ -46,10 +46,10 @@ Senior Full Stack Engineer with a focus on building reliable, scalable systems. 
 
 ### What I've been working on
 
-- **Full stack web applications** — end-to-end development across .NET back ends and React / Next.js frontends
-- **Business process automation** — reducing manual workflows through scripting, batch processing, and API integrations
-- **Accessible UIs** — WCAG 2.1 AA / Section 508 compliant interfaces across complex web apps
-- **API integrations** — REST, third-party services, and AI API workflows
+- **Full stack web applications**: end-to-end development across .NET back ends and React / Next.js frontends
+- **Business process automation**: reducing manual workflows through scripting, batch processing, and API integrations
+- **Accessible UIs**: WCAG 2.1 AA / Section 508 compliant interfaces across complex web apps
+- **API integrations**: REST, third-party services, and AI API workflows
 
 ---
 
